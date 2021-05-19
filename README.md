@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dayyan ABdullah
+- 👋 Hi, I’m Dayyan Abdullah
 - 👀 I’m interested in making technology to improve the quality of living
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects like Jellyfin and others that are unique and usefull
