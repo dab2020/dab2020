@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on projects like Jellyfin and others that are unique and usefull
 - 📫 How to reach me :dabdu@pm.me
 
-<!---
-dab2020/dab2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dab2020&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+![Dab2020's GitHub stats](https://github-readme-stats.vercel.app/api?username=dab2020)]      
+
+
+![Visitor Count](https://profile-counter.glitch.me/dab2020/count.svg)
+  
+
+
